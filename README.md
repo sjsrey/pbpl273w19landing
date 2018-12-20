@@ -7,13 +7,17 @@ instruction in a variety of open source GIS and spatial analysis
 software packages including QGIS, PySAL and OpenGeoDa. The course
 learning outcomes are:
 
+## Learning Objectives
 
--   A sound understanding of fundamental spatial concepts and theory
+At the end of this course students will:
+
+
+-   Posses a sound understanding of fundamental spatial concepts and theory
 
 -   Know how to locate, import, manipulate, display, and analyze
     geographical data in a GIS
 
--   Ability to apply GIScience concepts and methods in public policy and
+-   Have the ability to apply GIScience concepts and methods in public policy and
     social science research
 
 ## Prerequisites
@@ -22,10 +26,43 @@ Graduate standing or consent of instructor.
 
 ## Readings
 
+Primary readings supporting the course will be assigned from:
+
+
+
 ## Computational Learning
 
 
 ## Schedule
+
+
+### Part I: Tools and Fundamentals
+
+#### Week One
+
+##### Tu 01-07: Introduction to GIScience for Public Policy
+
+* Course Overview
+* Introduction to GIScience 
+
+##### Th 01-08: Introduction to Python for GIScience
+
+* [JupyterHub][JupyterHub]
+* Notebooks
+* Python Primer
+
+#### Week Two
+
+##### Tu 01-14: Spatial Data
+
+* Course Overview
+* Introduction to GIScience 
+
+##### Th 01-15: Spatial Data in Python
+
+* [JupyterHub][JupyterHub]
+* Notebooks
+* Python Primer
 
 
 
@@ -77,7 +114,7 @@ The course may be taken Satisfactory (S) or No Credit (NC) with consent
 of instructor and graduate advisor.
 
 
-## Academic Integrity {#sec:orgde332a6}
+## Academic Integrity
 
 The UCR student academic integrity policy lists violations in detail.
 These violations fall into eight broad areas that include but are not
@@ -88,7 +125,7 @@ information about the UCR student academic integrity policy, please use
 the following web link
 <http://conduct.ucr.edu/policies/academicintegrity.html>
 
-## Disability accommodations {#sec:orgedbb317}
+## Disability accommodations
 
 Qualified students with disabilities who will require disability
 accommodations in this class are encouraged to make their requests to me
@@ -98,7 +135,7 @@ verification of eligibility from the [Student Disability Resource
 Center](http://sdrc.ucr.edu/) is required. Disability information is
 confidential.
 
-## Code of Conduct {#sec:orgddde629}
+## Code of Conduct
 
 As course instructor, I am dedicated to providing a harassment-free
 learning experience for all students, regardless of gender, sexual
