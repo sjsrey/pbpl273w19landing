@@ -57,7 +57,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 | Week |  Date | Topic                                    | Material                                |
 |------|-------|------------------------------------------|-----------------------------------------|
 |    1 | 01-08 | Introduction to GIScience                | [ch 1][ch 1], [ch 2][ch 2]              |
-|      | 01-10 | Introduction to Python for GIS           | [Notebooks][0109a], [JupyterHub][0109b] |
+|      | 01-10 | Introduction to Python for GIS           | [Notebooks][0110a], [JupyterHub][0110b] |
 |    2 | 01-15 | Spatial Data                             | [ch 3][ch 3]                            |
 |      | 01-17 | Spatial Data in Python                   | Geopandas                               |
 |    3 | 01-22 | Visualizing Spatial Data                 | ch 4                                    |
@@ -163,5 +163,5 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [9]: http://www.spatialanalysisonline.com/HTML/afterword.htm
 
 [JupyterHub]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&app=notebook 
-[0109a]: https://geodatascience.net/user/serge/notebooks/pbpl273w19/notebooks/0109/A0_notebook_intro.ipynb
-[0109b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0109&app=notebook
+[0110a]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110%2FA0_notebook_intro.ipynb&app=notebook
+[0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
