@@ -28,12 +28,12 @@ field.
 At the end of this course students will:
 
 
--   Posses a sound understanding of fundamental spatial concepts and theory
+-   posses a sound understanding of fundamental spatial concepts and theory;
 
--   Know how to locate, import, manipulate, display, and analyze
+-   know how to locate, import, manipulate, display, and analyze
     geographical data in open source computational tools
 
--   Have the ability to apply GIScience concepts and methods in public policy and
+-   have the ability to apply GIScience concepts and methods in public policy and
     social science research
 
 ## Prerequisites
@@ -41,6 +41,10 @@ At the end of this course students will:
 Graduate standing or consent of instructor.
 
 ## Computational Learning
+
+We will using [open source](https://en.wikipedia.org/wiki/Open-source_software) geospatial software throughout the course together with [Jupyter Notebooks](https://jupyter.org), and [Python](https://python.org) as our scripting language. No prior programming experience is assumed and all computational concepts are presented in a self-contained manner.
+
+All software for the course will be made available through [JupyterHub](https://jupyter.org/) a web-based framework. Students wishing to install these materials on their own machines will be given instructions to do so, **but this is not required**.
 
 ## Readings
 
@@ -59,7 +63,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 |    1 | 01-08 | Introduction to GIScience                | [ch 1][ch 1], [ch 2][ch 2]              |
 |      | 01-10 | Introduction to Python for GIS           | [Notebooks][0110a], [JupyterHub][0110b] |
 |    2 | 01-15 | Spatial Data                             | [ch 3][ch 3]                            |
-|      | 01-17 | Spatial Data in Python                   | Geopandas                               |
+|      | 01-17 | Spatial Data in Python                   | [Geopandas][gp]                          |
 |    3 | 01-22 | Visualizing Spatial Data                 | ch 4                                    |
 |      | 01-24 | Mapping in Python                        | GP/splot                                |
 |    4 | 01-29 | Data Integration                         | [4.2][4.2]                              |
@@ -79,27 +83,20 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 ## Grading
 
-One course project and two exams comprise the course grade. The exams
-will be given “in-class” on the dates listed in the schedule. The course
-project will be described in detail the second meeting of class. The
-grading weights and scale are as follows:
+Your course grade will be based on a series of exercises designed to build your GIS skills, together with a group project and course participation.
+Details on the course project will be give out towards the middle of the quarter.
 
-  --------------- -------- --- --------
-  Component         Points A     90-100
-  Midterm Exam          20 B      80-89
-  Final Exam            30 C      70-79
-  Project               45 D      60-69
-  Participation          5 F     &lt;60
-  --------------- -------- --- --------
-
-In addition to the exams and project, course attendance is required.
-Roll will be taken at the beginning of each class meeting, primarily so
-that I may learn student’s name and assess student’s participation.
-After two missed classes, 1 point will be deducted from your final grade
-for each additional missed class.
+| Component      | Points |
+|----------------|-------:|
+| Exercise 1     |     20 |
+| Exercise 2     |     20 |
+| Exercise 3     |     20 |
+| Course Project |     35 |
+| Participation  |      5 |
 
 The course may be taken Satisfactory (S) or No Credit (NC) with consent
 of instructor and graduate advisor.
+
 
 
 ## Academic Integrity
@@ -165,3 +162,4 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [JupyterHub]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&app=notebook 
 [0110a]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110%2FA0_notebook_intro.ipynb&app=notebook
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
+[gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
