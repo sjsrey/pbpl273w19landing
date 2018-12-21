@@ -27,11 +27,10 @@ field.
 
 At the end of this course students will:
 
-
 -   posses a sound understanding of fundamental spatial concepts and theory;
 
 -   know how to locate, import, manipulate, display, and analyze
-    geographical data in open source computational tools
+    geographical data in open source computational tools;
 
 -   have the ability to apply GIScience concepts and methods in public policy and
     social science research
@@ -63,7 +62,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 |    1 | 01-08 | Introduction to GIScience                | [ch 1][ch 1], [ch 2][ch 2]              |
 |      | 01-10 | Introduction to Python for GIS           | [Notebooks][0110a], [JupyterHub][0110b] |
 |    2 | 01-15 | Spatial Data                             | [ch 3][ch 3]                            |
-|      | 01-17 | Spatial Data in Python                   | [Geopandas][gp]                          |
+|      | 01-17 | Spatial Data in Python                   | [Geopandas][gp]                         |
 |    3 | 01-22 | Visualizing Spatial Data                 | ch 4                                    |
 |      | 01-24 | Mapping in Python                        | GP/splot                                |
 |    4 | 01-29 | Data Integration                         | [4.2][4.2]                              |
@@ -83,8 +82,9 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 ## Grading
 
-Your course grade will be based on a series of exercises designed to build your GIS skills, together with a group project and course participation.
-Details on the course project will be give out towards the middle of the quarter.
+Your course grade will be based on a series of exercises designed to build your
+GIS skills, together with a group project and course participation. Details on
+the course project will be give out towards the middle of the quarter.
 
 | Component      | Points |
 |----------------|-------:|
@@ -96,8 +96,6 @@ Details on the course project will be give out towards the middle of the quarter
 
 The course may be taken Satisfactory (S) or No Credit (NC) with consent
 of instructor and graduate advisor.
-
-
 
 ## Academic Integrity
 
