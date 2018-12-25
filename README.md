@@ -33,7 +33,7 @@ At the end of this course students will:
     geographical data in open source computational tools;
 
 -   have the ability to apply GIScience concepts and methods in public policy and
-    social science research
+    social science research.
 
 ## Prerequisites
 
