@@ -10,11 +10,12 @@ information systems (GIS), geographic information science (GIScience),
 spatial data and applications of spatial analysis in the social sciences and public policy.
 
 
-The course takes an explicitly computational learning approach to its pedagogy.
-Students are introduced to computational tools that are increasingly important
-to public policy and social science research that engages with geospatial data.
-My view is that by adopting these tools, students acquire a deeper engagement
-with, and mastery of, the substantive concepts.
+The course takes an [explicitly computational
+thinking](https://computationalthinkingcourse.withgoogle.com/unit) approach to its
+pedagogy. Students are introduced to computational concepts and tools that are increasingly
+important to public policy and social science research that engages with
+geospatial data. My view is that by adopting these tools, students acquire a
+deeper engagement with, and mastery of, the substantive concepts.
 
 In the scope of a 10-week quarter course we can only introduce a handful of the
 key concepts and methods relevant to GIS for Public Policy. As such, the
@@ -57,28 +58,29 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 ## Schedule
 
 
-| Week |  Date | Topic                                    | Material                                |
-|------|-------|------------------------------------------|-----------------------------------------|
-|    1 | 01-08 | Introduction to GIScience                | [ch 1][ch 1], [ch 2][ch 2]              |
-|      | 01-10 | Introduction to Python for GIS           | [Notebooks][0110a], [JupyterHub][0110b] |
-|    2 | 01-15 | Spatial Data                             | [ch 3][ch 3]                            |
-|      | 01-17 | Spatial Data in Python                   | [Geopandas][gp]                         |
-|    3 | 01-22 | Visualizing Spatial Data                 | ch 4                                    |
-|      | 01-24 | Mapping in Python                        | GP/splot                                |
-|    4 | 01-29 | Data Integration                         | [4.2][4.2]                              |
-|      | 01-31 | Geoprocessing                            | Clipping                                |
-|    5 | 02-05 | Spatial Analysis                         | [5][5],[5.1][5.1], [5.2][5.2]           |
-|      | 02-07 | EDA for Spatial Data                     | pysal                                   |
-|    6 | 02-12 | Spatial Autocorrelation                  | [5.5][5.5]                              |
-|      | 02-14 | Global and Local Spatial Autocorrelation | pysal                                   |
-|    7 | 02-19 | Surfaces                                 | [6][6]                                  |
-|      | 02-21 | Interpolation                            |                                         |
-|    8 | 02-26 | Point Patterns                           | [5.4][5.4]                              |
-|      | 02-28 | Distance Statistics                      |                                         |
-|    9 | 03-05 | Clustering                               | [SciPy 2018][SciPy 2018]                |
-|      | 03-07 | Geodemographics                          | OSNAP                                   |
-|   10 | 03-12 | Big Data and Spatial Analysis            | [9][9]                                  |
-|      | 03-14 | Neighborhood Change                      | OSNAP                                   |
+
+| Week |  Date | Topic                                    | Reading                       | Computational Materials                 |
+|------|-------|------------------------------------------|-------------------------------|-----------------------------------------|
+|    1 | 01-08 | Introduction to GIScience                | [1][ch 1], [2][ch 2]          |                                         |
+|      | 01-10 | Introduction to Python for GIS           | [Python for GIS][ucgis]       | [Notebooks][0110a], [JupyterHub][0110b] |
+|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3], [4][ch 4]            |                                         |
+|      | 01-17 | Spatial Data in Python                   |                               | [Geopandas][gp]                         |
+|    3 | 01-22 | Visualizing Spatial Data                 |  4                          |                                         |
+|      | 01-24 | Mapping in Python                        |                               | GP/splot                                |
+|    4 | 01-29 | Data Integration                         | [4.2][4.2]                    |                                         |
+|      | 01-31 | Geoprocessing                            |                               | Clipping                                |
+|    5 | 02-05 | Spatial Analysis                         | [5][5],[5.1][5.1], [5.2][5.2] |                                         |
+|      | 02-07 | EDA for Spatial Data                     |                               | pysal                                   |
+|    6 | 02-12 | Spatial Autocorrelation                  | [5.5][5.5]                    |                                         |
+|      | 02-14 | Global and Local Spatial Autocorrelation |                               | pysal                                   |
+|    7 | 02-19 | Surfaces                                 | [6][6]                        |                                         |
+|      | 02-21 | Interpolation                            |                               |                                         |
+|    8 | 02-26 | Point Patterns                           | [5.4][5.4]                    |                                         |
+|      | 02-28 | Distance Statistics                      |                               |                                         |
+|    9 | 03-05 | Clustering                               | [SciPy 2018][SciPy 2018]      |                                         |
+|      | 03-07 | Geodemographics                          |                               | OSNAP                                   |
+|   10 | 03-12 | Big Data and Spatial Analysis            | [9][9]                        |                                         |
+|      | 03-14 | Neighborhood Change                      |                               | OSNAP                                   |
 
 ## Grading
 
@@ -146,6 +148,7 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [ch 1]: http://www.spatialanalysisonline.com/HTML/introduction_and_terminology.htm 
 [ch 2]: http://www.spatialanalysisonline.com/HTML/conceptual_frameworks_for_spat.htm
 [ch 3]: http://www.spatialanalysisonline.com/HTML/methodological_context.htm
+[ch 4]: http://www.spatialanalysisonline.com/HTML/building_blocks_of_spatial_ana.htm
 [4.2]: http://www.spatialanalysisonline.com/HTML/geometric_and_related_operatio.htm 
 [5]: http://www.spatialanalysisonline.com/HTML/building_blocks_of_spatial_ana.htm
 [5.1]: http://www.spatialanalysisonline.com/HTML/statistical_methods_and_spatia.htm 
@@ -157,7 +160,9 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [SciPy 2018]: http://conference.scipy.org/proceedings/scipy2018/serge_rey.html
 [9]: http://www.spatialanalysisonline.com/HTML/afterword.htm
 
+
 [JupyterHub]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&app=notebook 
 [0110a]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110%2FA0_notebook_intro.ipynb&app=notebook
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
+[ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
