@@ -1,13 +1,15 @@
 # Introduction to Geographic Information Science for Public Policy (PBPL 273)  
 University of California - Winter Quarter 2019
 
+Instructor: Sergio Rey  
+
 Tu/Th 3:40-5:30pm, Watkins 2101 
 
 ## Course Description
 
-This course introduces the fundamental concepts of geographic
-information systems (GIS), geographic information science (GIScience),
-spatial data and applications of spatial analysis in the social sciences and public policy.
+This course introduces the fundamental concepts of geographic information
+systems (GIS), geographic information science (GIScience), spatial data, and
+applications of spatial analysis in the social sciences and public policy.
 
 
 The course takes an [explicitly computational
@@ -20,7 +22,7 @@ deeper engagement with, and mastery of, the substantive concepts.
 In the scope of a 10-week quarter course we can only introduce a handful of the
 key concepts and methods relevant to GIS for Public Policy. As such, the
 course is not intended as an exhaustive treatment. Instead, the goal is that
-students will acquire and understanding of the more common and useful methods
+students will acquire an understanding of the more common and useful methods
 and practices, and use the course as an entry point for further engagement the
 field.
 
@@ -59,28 +61,29 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 
 
-| Week |  Date | Topic                                         | Reading                       | Computational Materials                 |
-|------|-------|-----------------------------------------------|-------------------------------|-----------------------------------------|
-|    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]          |                                         |
-|      | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]       | [Notebooks][0110a], [JupyterHub][0110b] |
-|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3], [4][ch 4]          |                                         |
-|      | 01-17 | Spatial Data in Python                        |                               | [Geopandas][gp]                         |
-|    3 | 01-22 | Visualizing Spatial Data                      | 4                             |                                         |
-|      | 01-24 | Mapping in Python                             |                               | GP/splot                                |
-|    4 | 01-29 | Data Integration                              | [4.2][4.2]                    |                                         |
-|      | 01-31 | Geoprocessing                                 |                               | Clipping                                |
-|    5 | 02-05 | Spatial Analysis                              | [5][5],[5.1][5.1], [5.2][5.2] |                                         |
-|      | 02-07 | EDA for Spatial Data                          |                               | pysal                                   |
-|    6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                    |                                         |
-|      | 02-14 | Global and Local Spatial Autocorrelation      |                               | pysal                                   |
-|    7 | 02-19 | Surfaces                                      | [6][6]                        |                                         |
-|      | 02-21 | Interpolation                                 |                               |                                         |
-|    8 | 02-26 | Point Patterns                                | [5.4][5.4]                    |                                         |
-|      | 02-28 | Distance Statistics                           |                               |                                         |
-|    9 | 03-05 | Clustering                                    | [SciPy 2018][SciPy 2018]      |                                         |
-|      | 03-07 | Geodemographics                               |                               | OSNAP                                   |
-|   10 | 03-12 | Big Data and Spatial Analysis                 | [9][9]                        |                                         |
-|      | 03-14 | Neighborhood Change                           |                               | OSNAP                                   |
+| Week |  Date | Topic                                         | Reading                       | Computational Materials |
+|------|-------|-----------------------------------------------|-------------------------------|-------------------------|
+|    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]          |                         |
+|      | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]       |                         |
+|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                     |                         |
+|      | 01-17 | Spatial Data in Python                        |                               |                         |
+|    3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                     |                         |
+|      | 01-24 | Mapping in Python                             |                               |                         |
+|    4 | 01-29 | Data Integration                              | [4.2][4.2]                    |                         |
+|      | 01-31 | Geoprocessing                                 |                               |                         |
+|    5 | 02-05 | Spatial Analysis                              | [5][5],[5.1][5.1], [5.2][5.2] |                         |
+|      | 02-07 | EDA for Spatial Data                          |                               |                         |
+|    6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                    |                         |
+|      | 02-14 | Global and Local Spatial Autocorrelation      |                               |                         |
+|    7 | 02-19 | Surfaces                                      | [6][6]                        |                         |
+|      | 02-21 | Interpolation                                 |                               |                         |
+|    8 | 02-26 | Point Patterns                                | [5.4][5.4]                    |                         |
+|      | 02-28 | Distance Statistics                           |                               |                         |
+|    9 | 03-05 | Clustering                                    | [SciPy 2018][SciPy 2018]      |                         |
+|      | 03-07 | Geodemographics                               |                               |                         |
+|   10 | 03-12 | Big Data and Spatial Analysis                 | [9][9]                        |                         |
+|      | 03-14 | Next Steps                                    |                               |                         |
+|      |       |                                               |                               |                         |
 
 ## Grading
 
