@@ -22,7 +22,7 @@ In the scope of a 10-week quarter course we can only introduce a handful of the
 key concepts and methods relevant to GIS for Public Policy. As such, the
 course is not intended as an exhaustive treatment. Instead, the goal is that
 students will acquire an understanding of the more common and useful methods
-and practices, and use the course as an entry point for further engagement the
+and practices, and use the course as an entry point for further engagement with the
 field.
 
 ## Learning Objectives
