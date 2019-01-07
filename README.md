@@ -29,7 +29,7 @@ field.
 
 At the end of this course students will:
 
--   posses a sound understanding of fundamental spatial concepts and theory;
+-   possess a sound understanding of fundamental spatial concepts and theory;
 
 -   know how to locate, import, manipulate, display, and analyze
     geographical data in open source computational tools;
@@ -88,7 +88,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 Your course grade will be based on a series of exercises designed to build your
 GIS skills, together with a group project and course participation. Details on
-the course project will be give out towards the middle of the quarter.
+the course project will be given out towards the middle of the quarter.
 
 | Component      | Points |
 |----------------|-------:|
@@ -106,7 +106,7 @@ of instructor and graduate advisor.
 The UCR student academic integrity policy lists violations in detail.
 These violations fall into eight broad areas that include but are not
 limited to: cheating, fabrication, plagiarism, facilitating academic
-misconduct, unauthorized collaboration, interference or sabbotage,
+misconduct, unauthorized collaboration, interference or sabotage,
 non-compliance with research regulations and retaliation. For more
 information about the UCR student academic integrity policy, please use
 the following web link
