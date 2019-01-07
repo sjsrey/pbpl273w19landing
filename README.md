@@ -5,6 +5,8 @@ Instructor: Sergio Rey
 
 Tu/Th 3:40-5:30pm, Watkins 2101 
 
+![PySAL and QGIS](figures/qgispysal.png "PySAL and QGIS")
+
 ## Course Description
 
 This course introduces the fundamental concepts of geographic information
