@@ -12,12 +12,11 @@ systems (GIS), geographic information science (GIScience), spatial data, and
 applications of spatial analysis in the social sciences and public policy.
 
 
-The course takes an [explicitly computational
-thinking](https://computationalthinkingcourse.withgoogle.com/unit) approach to its
-pedagogy. Students are introduced to computational concepts and tools that are increasingly
-important to public policy and social science research that engages with
-geospatial data. My view is that by adopting these tools, students acquire a
-deeper engagement with, and mastery of, the substantive concepts.
+The course takes an [explicitly computational thinking](https://computationalthinkingcourse.withgoogle.com/unit) approach to
+its pedagogy. Students are introduced to computational concepts and tools that
+are increasingly important to public policy and social science research that
+engages with geospatial data. By adopting these tools, students acquire a deeper
+engagement with, and mastery of, the substantive concepts.
 
 In the scope of a 10-week quarter course we can only introduce a handful of the
 key concepts and methods relevant to GIS for Public Policy. As such, the
