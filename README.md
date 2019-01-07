@@ -58,6 +58,8 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 ## Schedule
 
+Readings are to be done prior to the date listed. Computational Materials will be posted the day of the meeting.
+
 
 
 | Week |  Date | Topic                                         | Reading                       | Computational Materials |
