@@ -1,7 +1,7 @@
 # Introduction to Geographic Information Science for Public Policy (PBPL 273)  
 University of California - Winter Quarter 2019
 
-Instructor: Sergio Rey  
+Instructor: [Sergio Rey](https://sergerey.org/about)  
 
 Tu/Th 3:40-5:30pm, Watkins 2101 
 
