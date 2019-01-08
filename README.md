@@ -3,7 +3,9 @@ University of California - Winter Quarter 2019
 
 Instructor: [Sergio Rey](https://sergerey.org/about)  
 
-Tu/Th 3:40-5:30pm, Watkins 2101 
+Class Meetings: Tu/Th 3:40-5:30pm, Watkins 2101 
+
+Office Hours: Th 1:00-2:00pm, Center for Geospatial Sciences, Rivera 159
 
 ![PySAL and QGIS](figures/qgispysal.png "PySAL and QGIS")
 
