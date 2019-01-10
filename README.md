@@ -65,7 +65,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 Readings are to be done prior to the date listed. Computational Materials will be posted the day of the meeting.
 
 
-| Week |  Date | Topic                                         | Reading                       | Computational Materials<sup>[1](binder)</sup> | Exercises      |
+| Week |  Date | Topic                                         | Reading                       | Computational Materials<sup>[1](binderfn)</sup> | Exercises      |
 |------|-------|-----------------------------------------------|-------------------------------|---------------------------------------------|----------------|
 |    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]          | [Introduction to Jupyter and Python][0110a] |                |
 |      | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]       |                                             |                |
@@ -90,7 +90,7 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      |       |                                               |                               |                                             |                |
 
 
-<a name="binder">1</a>: For those not enrolled in the course, you can interact with these computational materials at the course Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master).
+<a name="binderfn">1</a>: For those not enrolled in the course, you can interact with these computational materials at the course Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master).
 
 
 ## Grading
