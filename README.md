@@ -60,6 +60,33 @@ de Smith, M.J, Goodchild, M.F. and Longley, P.A. (2018) _Geospatial Analysis: A 
 Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.html) or for [purchase](https://www.amazon.com/Geospatial-Analysis-Comprehensive-Michael-Smith/dp/1912556030).
 
 
+## Schedule New
+
+| Week |  Date | Topic                                         | Reading                         | Exercises      |
+|------|-------|-----------------------------------------------|---------------------------------|----------------|
+|    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]            |                |
+|      |       |                                               |                                 |                |
+|      | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]         |                |
+|      |       | [Introduction to Jupyter and Python][0110a]   |                                 |                |
+|      |       |                                               |                                 |                |
+|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                       |                |
+|      |       |                                               |                                 |                |
+|      | 01-17 | Spatial Data in Python                        |                                 | Exercise 1 out |
+|      |       |                                               |                                 |                |
+|    3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                       |                |
+|      |       |                                               |                                 |                |
+|      | 01-24 | Mapping and Geovisualization in Python        |                                 |                |
+|      |       |                                               |                                 |                |
+|    4 | 01-29 | Data Integration                              | [4.2][4]                        |                |
+|      |       |                                               |                                 |                |
+|      | 01-31 | Geoprocessing                                 |                                 | Exercise 1 Due |
+|      |       |                                               |                                 |                |
+|    5 | 02-05 | Spatial Analysis                              | [5][5], [5.1][5.1], [5.2],[5.2] |                |
+|      |       |                                               |                                 |                |
+|      | 02-07 | EDA for Spatial Data                          |                                 |                |
+|      |       |                                               |                                 |                |
+|    6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                      |                |
+
 ## Schedule
 
 Readings are to be done prior to the date listed. Computational Materials will be posted the day of the meeting.
