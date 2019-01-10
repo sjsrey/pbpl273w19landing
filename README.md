@@ -65,8 +65,7 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 | Week |  Date | Topic                                         | Reading                         | Exercises      |
 |------|-------|-----------------------------------------------|---------------------------------|----------------|
 |    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]            |                |
-|      | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]         |                |
-|      |       | [Introduction to Jupyter and Python][0110a]   |                                 |                |
+|      | 01-10 | [Introduction to Jupyter and Python][0110a]   | [Python for GIS][ucgis]         |                |
 |    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                       |                |
 |      | 01-17 | Spatial Data in Python                        |                                 | Exercise 1 Out |
 |    3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                       |                |
