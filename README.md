@@ -60,59 +60,31 @@ de Smith, M.J, Goodchild, M.F. and Longley, P.A. (2018) _Geospatial Analysis: A 
 Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.html) or for [purchase](https://www.amazon.com/Geospatial-Analysis-Comprehensive-Michael-Smith/dp/1912556030).
 
 
-## Schedule New
-
-| Week |  Date | Topic                                         | Reading                         | Exercises      |
-|------|-------|-----------------------------------------------|---------------------------------|----------------|
-|    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]            |                |
-|      | 01-10 | [Introduction to Jupyter and Python][0110a]   | [Python for GIS][ucgis]         |                |
-|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                       |                |
-|      | 01-17 | Spatial Data in Python                        |                                 | Exercise 1 Out |
-|    3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                       |                |
-|      | 01-24 | Mapping and Geovisualization in Python        |                                 |                |
-|    4 | 01-29 | Data Integration                              | [4.2][4]                        |                |
-|      | 01-31 | Geoprocessing                                 |                                 | Exercise 1 Due |
-|    5 | 02-05 | Spatial Analysis                              | [5][5], [5.1][5.1], [5.2],[5.2] |                |
-|      | 02-07 | EDA for Spatial Data                          |                                 | Exercise 2 Out |
-|    6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                      |                |
-|      | 02-14 | Testing for Autocorrelation                   |                                 |                |
-|    7 | 02-19 | Surfaces                                      | [6][6]                          |                |
-|      | 02-21 | Interpolation, Heat Maps                      |                                 | Exercise 2 Due |
-|    8 | 02-26 | Point Patterns                                | [5.4][5.4]                      |                |
-|      | 02-28 | Distance statistics                           |                                 | Exercise 3 Out |
-|    9 | 03-05 | Clustering                                    | [Scipy 2018][Scipy 2018]        |                |
-|      | 03-07 | Geodemographics                               |                                 |                |
-|   10 | 03-12 | Big Data and Spatial Analysis                 | [9][9]                          |                |
-|      | 03-14 | Next Steps                                    |                                 | Exercise 3 Due |
-
-## Schedule
+## Schedule 
 
 Readings are to be done prior to the date listed. Computational Materials will be posted the day of the meeting.
-
-
-| Wk |  Date | Topic                                         | Reading                       | Computational Materials                     | Exercises      |
-|----|-------|-----------------------------------------------|-------------------------------|---------------------------------------------|----------------|
-|  1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]          | [Introduction to Jupyter and Python][0110a] |                |
-|    | 01-10 | Introduction to Python for GIS                | [Python for GIS][ucgis]       |                                             |                |
-|  2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                     |                                             |                |
-|    | 01-17 | Spatial Data in Python                        |                               |                                             | Exercise 1 Out |
-|  3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                     |                                             |                |
-|    | 01-24 | Mapping in Python                             |                               |                                             |                |
-|  4 | 01-29 | Data Integration                              | [4.2][4.2]                    |                                             |                |
-|    | 01-31 | Geoprocessing                                 |                               |                                             | Exercise 1 Due |
-|  5 | 02-05 | Spatial Analysis                              | [5][5],[5.1][5.1], [5.2][5.2] |                                             |                |
-|    | 02-07 | EDA for Spatial Data                          |                               |                                             | Exercise 2 Out |
-|  6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                    |                                             |                |
-|    | 02-14 | Global and Local Spatial Autocorrelation      |                               |                                             |                |
-|  7 | 02-19 | Surfaces                                      | [6][6]                        |                                             |                |
-|    | 02-21 | Interpolation                                 |                               |                                             | Exercise 2 Due |
-|  8 | 02-26 | Point Patterns                                | [5.4][5.4]                    |                                             |                |
-|    | 02-28 | Distance Statistics                           |                               |                                             | Exercise 3 Out |
-|  9 | 03-05 | Clustering                                    | [SciPy 2018][SciPy 2018]      |                                             |                |
-|    | 03-07 | Geodemographics                               |                               |                                             |                |
-| 10 | 03-12 | Big Data and Spatial Analysis                 | [9][9]                        |                                             |                |
-|    | 03-14 | Next Steps                                    |                               |                                             | Exercise 3 Due |
-|    |       |                                               |                               |                                             |                |
+| Week |  Date | Topic                                         | Reading                        | Exercises      |
+|------|-------|-----------------------------------------------|--------------------------------|----------------|
+|    1 | 01-08 | Introduction to GIScience                     | [1][ch 1], [2][ch 2]           |                |
+|      | 01-10 | [Introduction to Jupyter and Python][0110a]   | [Python for GIS][ucgis]        |                |
+|    2 | 01-15 | Spatial Analysis: Context and Building Blocks | [3][ch 3]                      |                |
+|      | 01-17 | Spatial Data in Python                        |                                | Exercise 1 Out |
+|    3 | 01-22 | Visualizing Spatial Data                      | [4][ch 4]                      |                |
+|      | 01-24 | Mapping and Geovisualization in Python        |                                |                |
+|    4 | 01-29 | Data Integration                              | [4.2][4.2]                     |                |
+|      | 01-31 | Geoprocessing                                 |                                | Exercise 1 Due |
+|    5 | 02-05 | Spatial Analysis                              | [5][5], [5.1][5.1], [5.2][5.2] |                |
+|      | 02-07 | EDA for Spatial Data                          |                                | Exercise 2 Out |
+|    6 | 02-12 | Spatial Autocorrelation                       | [5.5][5.5]                     |                |
+|      | 02-14 | Testing for Autocorrelation                   |                                |                |
+|    7 | 02-19 | Surfaces                                      | [6][6]                         |                |
+|      | 02-21 | Interpolation, Heat Maps                      |                                | Exercise 2 Due |
+|    8 | 02-26 | Point Patterns                                | [5.4][5.4]                     |                |
+|      | 02-28 | Distance statistics                           |                                | Exercise 3 Out |
+|    9 | 03-05 | Clustering                                    | [Scipy 2018][Scipy 2018]       |                |
+|      | 03-07 | Geodemographics                               |                                |                |
+|   10 | 03-12 | Big Data and Spatial Analysis                 | [9][9]                         |                |
+|      | 03-14 | Next Steps                                    |                                | Exercise 3 Due |
 
 
 For those not enrolled in the course, you can interact with these computational materials at the course Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master).
