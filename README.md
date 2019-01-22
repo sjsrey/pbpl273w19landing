@@ -70,7 +70,7 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      | 01-10 | [Introduction to Jupyter and Python][0110a] | [Python for GIS][ucgis]        |                       |
 |    2 | 01-15 | Spatial Thinking                            | [2][ch 2]                      |                       |
 |      | 01-17 | [Python II][pythonII]                       |                                | [Exercise 1][ex1] Out |
-|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      |                       |
+|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]            |
 |      | 01-24 | Mapping and Geovisualization in Python      |                                |                       |
 |    4 | 01-29 | Data Integration                            | [4.2][4.2]                     |                       |
 |      | 01-31 | Geoprocessing                               |                                | Exercise 1 Due        |
@@ -174,6 +174,7 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [0110a]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110%2FA0_notebook_intro.ipynb&app=notebook
 [pythonII]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
+[data]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fdata&app=notebook
 [gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
