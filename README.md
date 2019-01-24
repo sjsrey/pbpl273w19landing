@@ -175,6 +175,7 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [pythonII]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [data]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fdata&app=notebook
+[mapping]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fmapping&app=notebook
 [gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
