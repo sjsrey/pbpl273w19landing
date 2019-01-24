@@ -62,7 +62,8 @@ Available for [reading on-line](http://www.spatialanalysisonline.com/HTML/index.
 
 ## Schedule 
 
-Readings are to be done prior to the date listed. Computational Materials will be posted the day of the meeting.
+Readings are to be done prior to the date listed. Computational Materials will
+be posted the day of the meeting.
 
 | Week |  Date | Topic                                       | Reading                        | Exercises             |
 |------|-------|---------------------------------------------|--------------------------------|-----------------------|
@@ -70,22 +71,22 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      | 01-10 | [Introduction to Jupyter and Python][0110a] | [Python for GIS][ucgis]        |                       |
 |    2 | 01-15 | Spatial Thinking                            | [2][ch 2]                      |                       |
 |      | 01-17 | [Python II][pythonII]                       |                                | [Exercise 1][ex1] Out |
-|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]            |
-|      | 01-24 | Mapping and Geovisualization in Python      |                                |                       |
-|    4 | 01-29 | Data Integration                            | [4.2][4.2]                     |                       |
-|      | 01-31 | Geoprocessing                               |                                | Exercise 1 Due        |
-|    5 | 02-05 | Spatial Analysis                            | [5][5], [5.1][5.1], [5.2][5.2] |                       |
+|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]          |
+|      | 01-24 | Mapping and Geovisualization in Python      |                                | [Mapping][mapping]    |
+|    4 | 01-29 | Geoprocessing: Shapely                      | [4.2][4.2]                     |                       |
+|      | 01-31 | Geoprocessing: CRS, Spatial Joins           |                                | Exercise 1 Due        |
+|    5 | 02-05 | Geoprocessing: Clipping, Buffering          | [5][5], [5.1][5.1], [5.2][5.2] | Project Introductions |
 |      | 02-07 | EDA for Spatial Data                        |                                | Exercise 2 Out        |
-|    6 | 02-12 | Spatial Autocorrelation                     | [5.5][5.5]                     |                       |
-|      | 02-14 | Testing for Autocorrelation                 |                                |                       |
-|    7 | 02-19 | Surfaces                                    | [6][6]                         |                       |
-|      | 02-21 | Interpolation, Heat Maps                    |                                | Exercise 2 Due        |
-|    8 | 02-26 | Point Patterns                              | [5.4][5.4]                     |                       |
-|      | 02-28 | Distance statistics                         |                                | Exercise 3 Out        |
-|    9 | 03-05 | Clustering                                  | [Scipy 2018][Scipy 2018]       |                       |
-|      | 03-07 | Geodemographics                             |                                |                       |
-|   10 | 03-12 | Big Data and Spatial Analysis               | [9][9]                         |                       |
-|      | 03-14 | Next Steps                                  |                                | Exercise 3 Due        |
+|    6 | 02-12 | Project Studio                              |                                |                       |
+|      | 02-14 | Spatial Weights                             | [5.5][5.5]                     |                       |
+|    7 | 02-19 | Spatial Autocorrelation: Join Counts        | [6][6]                         |                       |
+|      | 02-21 | Project Studio                              |                                | Exercise 2 Due        |
+|    8 | 02-26 | Spatial Autocorrelation: Global & Local     | [5.4][5.4]                     |                       |
+|      | 02-28 | Project Studio                              |                                | Exercise 3 Out        |
+|    9 | 03-05 | Clustering and Regionalization              |                                |                       |
+|      | 03-07 | Project Studio                              |                                |                       |
+|   10 | 03-12 | Geodemographics                             | [9][9]                         |                       |
+|      | 03-14 | Project Studio                              |                                | Exercise 3 Due        |
 
 
 For those not enrolled in the course, you can interact with these computational materials at the course Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master).
@@ -175,6 +176,7 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [pythonII]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [data]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fdata&app=notebook
+[mapping]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fmapping&app=notebook
 [gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
