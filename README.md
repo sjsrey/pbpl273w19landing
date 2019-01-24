@@ -70,8 +70,8 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      | 01-10 | [Introduction to Jupyter and Python][0110a] | [Python for GIS][ucgis]        |                       |
 |    2 | 01-15 | Spatial Thinking                            | [2][ch 2]                      |                       |
 |      | 01-17 | [Python II][pythonII]                       |                                | [Exercise 1][ex1] Out |
-|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]            |
-|      | 01-24 | Mapping and Geovisualization in Python      |                                |                       |
+|    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]          |
+|      | 01-24 | Mapping and Geovisualization in Python      |                                | [Mapping][mapping]    |
 |    4 | 01-29 | Data Integration                            | [4.2][4.2]                     |                       |
 |      | 01-31 | Geoprocessing                               |                                | Exercise 1 Due        |
 |    5 | 02-05 | Spatial Analysis                            | [5][5], [5.1][5.1], [5.2][5.2] |                       |
