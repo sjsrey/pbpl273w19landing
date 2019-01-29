@@ -72,7 +72,7 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      | 01-17 | [Python II][pythonII]                       |                                | [Exercise 1][ex1] Out |
 |    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]          |
 |      | 01-24 | Mapping and Geovisualization in Python      |                                | [Mapping][mapping]    |
-|    4 | 01-29 | Data Integration                            | [4.2][4.2]                     |                       |
+|    4 | 01-29 | Data Structures and Models                  | [4.2][4.2]                     | [Shapely][shapely]      |
 |      | 01-31 | Geoprocessing                               |                                | Exercise 1 Due        |
 |    5 | 02-05 | Spatial Analysis                            | [5][5], [5.1][5.1], [5.2][5.2] |                       |
 |      | 02-07 | EDA for Spatial Data                        |                                | Exercise 2 Out        |
@@ -176,6 +176,7 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [0110b]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0110&app=notebook
 [data]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fdata&app=notebook
 [mapping]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fmapping&app=notebook
+[shapely]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0129&app=notebook
 [gp]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
