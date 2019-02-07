@@ -75,7 +75,7 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |    4 | 01-29 | Data Structures and Models                  | [4.2][4.2]                     | [Shapely][shapely]      |
 |      | 01-31 | Geoprocessing                               |  [Spatial Joins][sjoins]         | Exercise 1 Due        |
 |    5 | 02-05 | Spatial Analysis                            | [5][5], [5.1][5.1], [5.2][5.2] |                       |
-|      | 02-07 | EDA for Spatial Data                        |                                | Exercise 2 Out        |
+|      | 02-07 | EDA for Spatial Data                        |                                | [Exercise 2 Out][ex2] |
 |    6 | 02-12 | Spatial Autocorrelation                     | [5.5][5.5]                     |                       |
 |      | 02-14 | Testing for Autocorrelation                 |                                |                       |
 |    7 | 02-19 | Surfaces                                    | [6][6]                         |                       |
@@ -182,3 +182,4 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
 [ex1]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
+[ex2]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
