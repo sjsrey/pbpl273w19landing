@@ -4,13 +4,13 @@
 *** Project Schedule
 | Component              | Deadline         | Notes                   |
 |------------------------+------------------+-------------------------|
-| Topic Preferences      | <2019-02-08 Fri> | Rank the 5 projects     |
-| Team Formation         | <2019-02-12 Tue> | Announced by Instructor |
-| Roles Assigned         | <2019-02-14 Thu> |                         |
-| Paper                  | <2019-03-14 Thu> |                         |
-| Presentation Slides    | <2019-03-17 Sun> |                         |
-| Presentations          | <2019-03-20 Wed> |                         |
-| Individual Evaluations | <2019-03-22 Fri> |                         |
+| Topic Preferences      | 2019-02-08 Fri | Rank the 5 projects     |
+| Team Formation         | 2019-02-12 Tue | Announced by Instructor |
+| Roles Assigned         | 2019-02-14 Thu |                         |
+| Paper                  | 2019-03-14 Thu |                         |
+| Presentation Slides    | 2019-03-17 Sun |                         |
+| Presentations          | 2019-03-20 Wed |                         |
+| Individual Evaluations | 2019-03-22 Fri |                         |
 *** Grade
 | Component               | Percentage | Notes                    |
 |-------------------------+------------+--------------------------|
