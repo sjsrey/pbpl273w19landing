@@ -182,4 +182,4 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [ucgis]: https://gistbok.ucgis.org/bok-topics/python-gis
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
 [ex1]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
-[ex2]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
+[ex2]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F02&app=notebook
