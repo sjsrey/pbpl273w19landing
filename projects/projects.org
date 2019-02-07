@@ -21,24 +21,25 @@
 
 *** Project Collaboration Structure 
 **** Teams have to self-organize
-***** Identify Roles
-***** Allocate work in a balanced fashion
-***** Look for synergies
+- Identify Roles
+- Allocate work in a balanced fashion
+- Look for synergies
 **** Possible Roles
-***** scribe/scrum master
-***** data research/acquisition
-***** data integration/harmonization
-***** geoprocessing
-***** spatial analysis
-***** visualizations
-***** documentation
-***** editing
-***** slide preparation
-***** presentation
+- scribe/scrum master
+- data research/acquisition
+- data integration/harmonization
+- geoprocessing
+- spatial analysis
+- visualizations
+- documentation
+- editing
+- slide preparation
+- presentation
 **** Collaboration tools
 Each team will be given a private slack channel that will be open to the team
 members and the instructor. The instructor will use the activity on the channel
 as one input in evaluating group and individual contributions.
 
 **** Presentations will be on date of final
-***** If one colleague cannot attend they can take on the role of producing the final slides and/or contributing to most of the paper production
+If one colleague cannot attend they can take on the role of producing the final
+slides and/or contributing to most of the paper production
