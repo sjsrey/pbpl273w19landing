@@ -22,7 +22,7 @@
 
 ## Team Schwabe (2)
 - Elizabeth Ruano
-- Hang li
+- Hang Li
 - Dylan Skrah
 - Tristan Rightnar
 - Larysha Green
