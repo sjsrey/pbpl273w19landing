@@ -72,19 +72,19 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |      | 01-17 | [Python II][pythonII]                       |                                | [Exercise 1][ex1] Out |
 |    3 | 01-22 | Spatial Data in Python                      | [4][ch 4]                      | [Data][data]          |
 |      | 01-24 | Mapping and Geovisualization in Python      |                                | [Mapping][mapping]    |
-|    4 | 01-29 | Data Structures and Models                  | [4.2][4.2]                     | [Shapely][shapely]      |
-|      | 01-31 | Geoprocessing                               |  [Spatial Joins][sjoins]         | Exercise 1 Due        |
-|    5 | 02-05 | Spatial Analysis                            | [5][5], [5.1][5.1], [5.2][5.2] |                       |
-|      | 02-07 | EDA for Spatial Data                        |                                | [Exercise 2 Out][ex2] |
-|    6 | 02-12 | Spatial Autocorrelation                     | [5.5][5.5]                     |                       |
-|      | 02-14 | Testing for Autocorrelation                 |                                |                       |
-|    7 | 02-19 | Surfaces                                    | [6][6]                         |                       |
-|      | 02-21 | Interpolation, Heat Maps                    |                                | Exercise 2 Due        |
-|    8 | 02-26 | Point Patterns                              | [5.4][5.4]                     |                       |
-|      | 02-28 | Distance statistics                         |                                | Exercise 3 Out        |
-|    9 | 03-05 | Clustering                                  | [Scipy 2018][Scipy 2018]       |                       |
-|      | 03-07 | Geodemographics                             |                                |                       |
-|   10 | 03-12 | Big Data and Spatial Analysis               | [9][9]                         |                       |
+|    4 | 01-29 | Data Structures and Models                  | [4.2][4.2]                     | [Shapely][shapely]    |
+|      | 01-31 | Geoprocessing                               | [Spatial Joins][sjoins]        | Exercise 1 Due        |
+|    5 | 02-05 | Project proposals, Spatial Analysis         | [5][5], [5.1][5.1], [5.2][5.2] |                       |
+|      | 02-07 | Project proposals, EDA for Spatial Data     |                                | [Exercise 2 Out][ex2] |
+|    6 | 02-12 | Guest Lecture: Elijah Knaap                 | [5.5][5.5]                     |                       |
+|      | 02-14 | Project Resource: Github and Slack          |                                |                       |
+|    7 | 02-19 | Exercise 2, Projects                        | [6][6]                         |                       |
+|      | 02-21 | [Clipping][clip], Projects                   |                                | Exercise 2 Due        |
+|    8 | 02-26 | Spatial Joins, Projects                     | [5.4][5.4]                     |                       |
+|      | 02-28 | Spatial Weights, Projects                   |                                | Exercise 3 Out        |
+|    9 | 03-05 | Global Autocorrelation, Projects            | [Scipy 2018][Scipy 2018]       |                       |
+|      | 03-07 | Local Autocorrelation, Projects             |                                |                       |
+|   10 | 03-12 | Exercise 3, Projects                        | [9][9]                         |                       |
 |      | 03-14 | Next Steps                                  |                                | Exercise 3 Due        |
 
 
@@ -183,3 +183,4 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
 [ex1]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
 [ex2]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F02&app=notebook
+[clip]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
