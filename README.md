@@ -79,12 +79,12 @@ Readings are to be done prior to the date listed. Computational Materials will b
 |    6 | 02-12 | Guest Lecture: Elijah Knaap                 | [5.5][5.5]                     |                       |
 |      | 02-14 | Project Resource: Github and Slack          |                                |                       |
 |    7 | 02-19 | Exercise 2, Projects                        | [6][6]                         |                       |
-|      | 02-21 | [Clipping][clip], Projects                   |                                | Exercise 2 Due        |
+|      | 02-21 | [Clipping][clip], Projects                  |                                | Exercise 2 Due        |
 |    8 | 02-26 | Spatial Joins, Projects                     | [5.4][5.4]                     |                       |
-|      | 02-28 | Spatial Weights, Projects                   |                                | Exercise 3 Out        |
-|    9 | 03-05 | Global Autocorrelation, Projects            | [Scipy 2018][Scipy 2018]       |                       |
-|      | 03-07 | Local Autocorrelation, Projects             |                                |                       |
-|   10 | 03-12 | Exercise 3, Projects                        | [9][9]                         |                       |
+|      | 02-28 | Projects                                    |                                | [Exercise 3][ex3]  |
+|    9 | 03-05 | Projects                                    |                                |                       |
+|      | 03-07 | Projects                                    |                                |                       |
+|   10 | 03-12 | Exercise 3, Projects                        |                                |                       |
 |      | 03-14 | Next Steps                                  |                                | Exercise 3 Due        |
 
 
@@ -183,4 +183,5 @@ Conduct](https://scipy2017.scipy.org/ehome/220975/493434/).
 [binder]: https://mybinder.org/v2/gh/sjsrey/pbpl273w19/master
 [ex1]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F01&app=notebook
 [ex2]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F02&app=notebook
+[ex3]:  https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2Fexercises%2F03&app=notebook
 [clip]: https://geodatascience.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsjsrey%2Fpbpl273w19&branch=master&subPath=notebooks%2F0117&app=notebook
